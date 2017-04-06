@@ -1,4 +1,4 @@
-#lua-schema-validation
+# lua-schema-validation
 
 lua-schema-validation is a validation library for Lua.
 
